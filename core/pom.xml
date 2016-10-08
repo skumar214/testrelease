@@ -12,10 +12,11 @@
 	<parent>
 		<groupId>com.adobe.aemtraining</groupId>
 		<artifactId>capstone</artifactId>
-		<version>0</version>
+		<version>0.0.4</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<artifactId>capstone.core</artifactId>
+  <version>0</version>
 	<packaging>bundle</packaging>
 	<name>Capstone - Core</name>
 	<description>Core bundle for Capstone</description>
@@ -134,4 +135,8 @@
 			<artifactId>junit-addons</artifactId>
 		</dependency>
 	</dependencies>
+
+  <scm>
+    <tag>capstone-0.0.4</tag>
+  </scm>
 </project>
