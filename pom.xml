@@ -25,7 +25,12 @@
     <modules>
         <module>core</module>
     </modules>
-
+	<scm>
+        <url>https://github.com/skumar214/testrelease</url>
+        <connection>scm:https://github.com/skumar214/testrelease.git</connection>
+        <developerConnection>scm:https://github.com/skumar214/testrelease.git</developerConnection>
+        
+    </scm>
     <properties>
         <aem.host>localhost</aem.host>
         <aem.port>4502</aem.port>
