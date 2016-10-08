@@ -19,7 +19,7 @@
     <groupId>com.adobe.aemtraining</groupId>
     <artifactId>capstone</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <description>Capstone</description>
     
     <modules>
@@ -27,7 +27,7 @@
     </modules>
 	<scm>
         <developerConnection>scm:git:https://github.com/skumar214/testrelease</developerConnection>
-      <tag>HEAD</tag>
+      <tag>capstone-0.0.2</tag>
   </scm>
     <properties>
         <aem.host>localhost</aem.host>
