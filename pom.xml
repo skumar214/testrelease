@@ -26,7 +26,7 @@
         <module>core</module>
     </modules>
 	<scm>
-        <developerConnection>scm:git@github.com:skumar214/testrelease.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/skumar214/testrelease</developerConnection>
     </scm>
     <properties>
         <aem.host>localhost</aem.host>
