@@ -1,4 +1,3 @@
 # testrelease
 
-sddsd
-as
+master rel cand
