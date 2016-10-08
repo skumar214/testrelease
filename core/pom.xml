@@ -12,7 +12,7 @@
 	<parent>
 		<groupId>com.adobe.aemtraining</groupId>
 		<artifactId>capstone</artifactId>
-		<version>0</version>
+		<version>1-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<artifactId>capstone.core</artifactId>
