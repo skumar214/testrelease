@@ -19,7 +19,7 @@
     <groupId>com.adobe.aemtraining</groupId>
     <artifactId>capstone</artifactId>
     <packaging>pom</packaging>
-    <version>1-SNAPSHOT</version>
+    <version>0.0.5-SNAPSHOT</version>
     <description>Capstone</description>
     
     <modules>
